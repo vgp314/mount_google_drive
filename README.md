@@ -1,2 +1,2 @@
-# mount_google_drive
+# Mount Google Drive
 Script in Python to use files of google drive in colab
